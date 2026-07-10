@@ -1,0 +1,34 @@
+# 模型文件（体积过大，请本地下载）
+models/
+local_models/
+
+# 分析输出结果
+output/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 开发过程中的临时修复脚本
+fix_*.py
+add_*.py
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
